@@ -1,0 +1,9 @@
+# book_translator_project/requirements.txt
+langchain
+langchain-community
+langgraph
+transformers
+sentence-transformers
+pypdf
+faiss-cpu  # or faiss-gpu for GPU support
+llama-cpp-python

@@ -1,0 +1,8 @@
+# book_translator_project/.gitignore
+__pycache__/
+*.pyc
+*.pdf
+data/vector_store/
+models/
+.env
+venv/
