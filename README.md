@@ -1,4 +1,3 @@
-
 Persian-English QA System
 
 - What This Project Does – AI Book Translator (Offline, Local)
