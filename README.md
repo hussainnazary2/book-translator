@@ -1,5 +1,6 @@
 Persian-English QA System
 
+
 - What This Project Does – AI Book Translator (Offline, Local)
 
 This project is an AI-powered system that helps users read English books, ask questions in Dari, and get accurate answers and translations—all offline, without needing the internet or any API keys.
