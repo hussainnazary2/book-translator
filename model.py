@@ -2,7 +2,6 @@ from llama_cpp import Llama
 
 # Path to your downloaded GGUF model
 model_path = "./models/Mistral-7B-Instruct-v0.3.Q4_K_M.gguf"
-
 # Initialize the model
 llm = Llama(
     model_path=model_path,
